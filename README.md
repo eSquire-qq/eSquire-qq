@@ -10,8 +10,7 @@ I'm student of Poltava Poltava Polytechnic College, on the third course at the f
 
 - 👀 I'm interested in reading programming literature.
 - 🌱 I’m currently learning Java.
-- 📫 How to contact me: email - esquire.github.repos@gmail.com
-
+- 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eSquire-qq&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eSquire-qq&langs_count=5&theme=tokyonight)]()
 
