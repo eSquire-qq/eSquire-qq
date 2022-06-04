@@ -12,9 +12,9 @@ I'm student of Poltava Poltava Polytechnic College, on the third course at the f
 - 🌱 I’m currently learning Java.
 - 📫 How to contact me: email - esquire.github.repos@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eSquire-qq)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eSquire-qq&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eSquire-qq&langs_count=5&theme=tokyonight)]()
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 eSquire-qq/eSquire-qq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
