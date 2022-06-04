@@ -10,9 +10,11 @@ I'm student of Poltava Poltava Polytechnic College, on the third course at the f
 
 - 👀 I'm interested in reading programming literature.
 - 🌱 I’m currently learning Java.
+- 📫 How to contacte me: email - esquire.github.repos@gmail.com
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eSquire-qq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=eSquire-qq&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eSquire-qq&layout=compact"/>
+
 
 <!---
 eSquire-qq/eSquire-qq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
