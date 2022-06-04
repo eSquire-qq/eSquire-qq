@@ -13,7 +13,7 @@ I'm student of Poltava Poltava Polytechnic College, on the third course at the f
 - 📫 How to contacte me: email - esquire.github.repos@gmail.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=eSquire-qq&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eSquire-qq&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eSquire-qq&show_icons=true"/>
 
 
 
