@@ -12,9 +12,7 @@ I'm student of Poltava Poltava Polytechnic College, on the third course at the f
 - 🌱 I’m currently learning Java.
 
 
-![](https://github.com/eSquire-qq/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/eSquire-qq/github-stats/blob/master/generated/languages.svg)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eSquire-qq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 eSquire-qq/eSquire-qq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
