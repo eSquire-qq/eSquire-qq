@@ -1,6 +1,6 @@
 Hi, i'm Artem 👋
 
-I'm student of Poltava Poltava Polytechnic College, on the third course at the faculty Software Engineering.
+I'm student of Poltava Polytechnic College, on the third course at the faculty Software Engineering.
 
 💻 Study Experience
 
