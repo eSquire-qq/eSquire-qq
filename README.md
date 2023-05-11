@@ -6,11 +6,7 @@ I'm student of Poltava Polytechnic College, on the third course at the faculty S
 
 • EPAM Courses, Java Online Program (Spring-Summer 2022)
 
-👦 About me
-
-- 👀 I'm interested in reading programming literature.
-- 🌱 I’m currently learning Java.
-- 📫 How to contact me: email - esquire.github.repos@gmail.com
+📫 How to contact me: email - esquire.github.repos@gmail.com
 
 <!---
 eSquire-qq/eSquire-qq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
